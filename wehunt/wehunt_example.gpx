@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.1" creator="WeHunt - http://www.wehuntapp.com" xmlns:wehunt="https://app.wehuntapp.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://app.wehuntapp.com https://app.wehuntapp.com/gpx_extensions.xsd" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <author>
+      <name>Mikael Andersson</name>
+    </author>
+  </metadata>
+  <wpt lat="65.525010" lon="17.615171">
+    <name>M19</name>
+    <desc>Flyttades från vägen 2023.</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.551260" lon="17.449715">
+    <name>Korsning</name>
+    <desc>Traktorväg, vik av mot 19</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.538216" lon="17.572691">
+    <name>Snitslat härifrån</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.554080" lon="17.399393">
+    <name>JP6</name>
+    <desc>Passet inflyttat av säkerhetsskäl.</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.579834" lon="17.431284">
+    <name>JP24</name>
+    <desc>Björkberget i bakgrunden. Behöver röjas. Ved 2018-04-28</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.574270" lon="17.570680">
+    <name>S4</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.592094" lon="17.335588">
+    <name>Gammalt pass G14</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.543450" lon="17.470144">
+    <name>Övrigt</name>
+    <desc>Vik av mot pass o sten </desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.516750" lon="17.623518">
+    <name>M15</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.597940" lon="17.303171">
+    <name>P pass 15</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.574910" lon="17.580273">
+    <name>P</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.564186" lon="17.362278">
+    <name>Pass</name>
+    <desc>2 b</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.574550" lon="17.440320">
+    <name>JS4</name>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.572210" lon="17.312160">
+    <name>G6</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.537810" lon="17.640148">
+    <name>P</name>
+    <desc>P14B-Parkering</desc>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.520150" lon="17.572027">
+    <name>M5</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.540850" lon="17.627280">
+    <name>Gammalt torn</name>
+    <desc>Himmelriket</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.520020" lon="17.586481">
+    <name>Gammalt pass</name>
+    <desc>Här finns ved</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.536800" lon="17.588951">
+    <name>Samlingsplats</name>
+    <type>gathering_place</type>
+  </wpt>
+  <wpt lat="65.570140" lon="17.334219">
+    <name>GS7</name>
+    <desc>Ny 2023 Sten utsatt 2023-06-02</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.525530" lon="17.594057">
+    <name>MS3</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.576070" lon="17.423529">
+    <name>JS5</name>
+    <desc>Borttagen 2024</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.570854" lon="17.564255">
+    <name>SS12</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.556330" lon="17.469946">
+    <name>JS7</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.568020" lon="17.470991">
+    <name>JP27B</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.570290" lon="17.365088">
+    <name>G22</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.567440" lon="17.446600">
+    <name>Torn</name>
+    <desc />
+    <type>tower</type>
+  </wpt>
+  <wpt lat="65.521740" lon="17.631762">
+    <name>MS2</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.569520" lon="17.391290">
+    <name>JP7</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.541720" lon="17.478682">
+    <name>JP29</name>
+    <desc>Förslag till nytt pass</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.558910" lon="17.562223">
+    <name>S29</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.593260" lon="17.317406">
+    <name>G15A</name>
+    <desc>180908 
+Kan detta vara en bra plats? Det har tagits ut ett litet hygge här samt är hyfsat öppet i kanten på "hällen".
+</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.574610" lon="17.579400">
+    <name>S6</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.557880" lon="17.430687">
+    <name>JS10</name>
+    <desc>Justera position på WeHunt</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.541200" lon="17.478203">
+    <name>JS17</name>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.575950" lon="17.422218">
+    <name>JP12b</name>
+    <desc>OBS Flyttad</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.574890" lon="17.289476">
+    <name>G3B</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.544480" lon="17.432798">
+    <name>P</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.536200" lon="17.632431">
+    <name>P</name>
+    <desc>Till 15B</desc>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.585556" lon="17.358473">
+    <name>G23</name>
+    <desc>Eget nummer</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.568210" lon="17.449500">
+    <name>P</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.535360" lon="17.585554">
+    <name>M1</name>
+    <desc>Blå snitsel</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.566850" lon="17.343155">
+    <name>G28</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.536060" lon="17.478058">
+    <name>JS19</name>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.537050" lon="17.631279">
+    <name>S14</name>
+    <desc>Observera farliga skjutriktningar</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.571850" lon="17.325861">
+    <name>Övrigt</name>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.576900" lon="17.373085">
+    <name>G8B</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.578125" lon="17.334385">
+    <name>GS4</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.576930" lon="17.376732">
+    <name>Gammalt pass G8</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.589430" lon="17.344208">
+    <name>G13</name>
+    <desc>MB 230909:  Uppdaterat position. Ved behövs. Sikt ok men skulle kunna förbättras 20-30% med lättare röjning. </desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.551384" lon="17.594082">
+    <name>SS8</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.520670" lon="17.586930">
+    <name>M11</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.566740" lon="17.355675">
+    <name>Ny pos GS6 prel</name>
+    <desc>Förslag till ny placering 2024</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.518845" lon="17.579994">
+    <name>M6</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.519120" lon="17.639029">
+    <name>M16</name>
+    <desc>Pass 16</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.572930" lon="17.414412">
+    <name>JP11</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.551254" lon="17.418402">
+    <name>P</name>
+    <desc />
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.578960" lon="17.290283">
+    <name>Sikta hit för att slippa branten.</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.552860" lon="17.605860">
+    <name>S27</name>
+    <desc>Kiosken
+Ej skott mot krönet i NO riktning</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.565040" lon="17.601057">
+    <name>Övrigt</name>
+    <desc>Viltstig</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.570816" lon="17.371113">
+    <name>GS1</name>
+    <desc>Kontrollera om positionen är korrekt</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.567570" lon="17.372730">
+    <name>G20</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.582030" lon="17.436972">
+    <name>JP25</name>
+    <desc>Nummerskylt saknas. Ved 2021-04-17</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.550674" lon="17.609962">
+    <name>SS7</name>
+    <desc>Saltsten 230410 /MB
+(Slang + tak saknas)</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.549990" lon="17.597916">
+    <name>S32</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.588980" lon="17.346586">
+    <name>G12</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.532490" lon="17.629410">
+    <name>MS13</name>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.579070" lon="17.327427">
+    <name>Alt 25</name>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.575775" lon="17.422436">
+    <name>JP12 (gammalt)</name>
+    <desc>Gammalt postställe. Högre beläget än p12. Kan bli bra, men mer röjningsbehov än p12.</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.603485" lon="17.444960">
+    <name>Slakteriet </name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.526436" lon="17.513058">
+    <name>Samlingsplats</name>
+    <desc />
+    <type>gathering_place</type>
+  </wpt>
+  <wpt lat="65.551950" lon="17.450794">
+    <name>JP19B</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.583070" lon="17.295420">
+    <name>G18</name>
+    <desc>Nya pass 18</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.577550" lon="17.296833">
+    <name>G3</name>
+    <type>tower</type>
+  </wpt>
+  <wpt lat="65.536910" lon="17.622524">
+    <name>Förbj skjutrtiktning</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.532270" lon="17.632550">
+    <name>M18B</name>
+    <desc>Temporärt pass . Observera förbjuden skjutning mot vägen. Markerat skjutgränser med nedslagna torrpinnar</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.591590" lon="17.335049">
+    <name>GS11</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.566660" lon="17.528616">
+    <name>P</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.542534" lon="17.609005">
+    <name>SS6</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.565470" lon="17.362995">
+    <name>G19</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.564910" lon="17.356483">
+    <name>P</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.525314" lon="17.620241">
+    <name>P</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.560910" lon="17.609814">
+    <name>S13</name>
+    <type>tower</type>
+  </wpt>
+  <wpt lat="65.584880" lon="17.350069">
+    <name>G11</name>
+    <desc>Nya pass 11 gourbe</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.516570" lon="17.625568">
+    <name>P</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.583885" lon="17.332770">
+    <name>GS6</name>
+    <desc>Föreslås få ny placering 2024
+Borttagen 2024</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.540120" lon="17.459350">
+    <name>JS16</name>
+    <desc>Saltsten Borttagen 2024</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.565100" lon="17.357496">
+    <name>G2</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.558520" lon="17.587393">
+    <name>Övrigt</name>
+    <desc>Platå</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.582504" lon="17.438515">
+    <name>Bort 2024 JS1</name>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.581635" lon="17.332699">
+    <name>G25B</name>
+    <desc>Ingen ved 2034.07</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.552340" lon="17.595453">
+    <name>S28</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.576250" lon="17.588371">
+    <name>S7</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.561690" lon="17.425274">
+    <name>JS9</name>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.545460" lon="17.466839">
+    <name>JP2</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.540460" lon="17.619250">
+    <name>SS5</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.571040" lon="17.371864">
+    <name>G21B</name>
+    <desc>Test nytt pass vid saltsten.viltstig som går mot saltsten 25 norr om detta pass</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.552900" lon="17.419102">
+    <name>JP 23B</name>
+    <desc>Alternativ</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.570290" lon="17.412186">
+    <name>JP10C</name>
+    <desc>Skjutriktning: 365gr</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.554504" lon="17.422916">
+    <name>JP23A</name>
+    <desc>Eldstad och ved finns. 22 &amp; 23 ska ej vara besatta samtidigt</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.553180" lon="17.606936">
+    <name>Gamla sp27</name>
+    <desc>Inget kulfång uppåt!</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.563280" lon="17.553112">
+    <name>SS10</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.591580" lon="17.305094">
+    <name>G16</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.546750" lon="17.416592">
+    <name>G.SP.</name>
+    <type>gathering_place</type>
+  </wpt>
+  <wpt lat="65.538650" lon="17.570269">
+    <name>P</name>
+    <desc>P19-parkering</desc>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.536280" lon="17.619290">
+    <name>P</name>
+    <desc>P16-parkering</desc>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.524840" lon="17.615490">
+    <name>MS 18</name>
+    <desc>Sten ersatt 2023-05-30</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.548965" lon="17.406700">
+    <name>JS 15</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.580410" lon="17.293236">
+    <name>G4</name>
+    <desc>Pass ligger ca 30-40m innanför linjen. Obs det är nära till linjen i riktning mot tjärn i norr.</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.560936" lon="17.588608">
+    <name>Övrigt</name>
+    <desc>Gräns för Holmen av verk</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.537384" lon="17.571873">
+    <name>M4</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.564910" lon="17.608568">
+    <name>S11</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.566086" lon="17.606745">
+    <name>S11B</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.516910" lon="17.586956">
+    <name>Vändplan</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.534020" lon="17.631388">
+    <name>Sväng</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.542694" lon="17.572832">
+    <name>S20</name>
+    <desc>Position uppskattad</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.534515" lon="17.597582">
+    <name>Gammalt pass</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.588840" lon="17.450950">
+    <name>Parkering</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.576490" lon="17.287523">
+    <name>P GP4</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.570940" lon="17.322124">
+    <name>G29</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.551520" lon="17.594452">
+    <name>S28B</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.591250" lon="17.315992">
+    <name>G15B</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.561160" lon="17.613487">
+    <name>Kents koja</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.578896" lon="17.355303">
+    <name>Topptjärn</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.569595" lon="17.376913">
+    <name>G21A</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.519850" lon="17.597355">
+    <name>M14</name>
+    <desc>Pass 14</desc>
+    <type>tower</type>
+  </wpt>
+  <wpt lat="65.571430" lon="17.408318">
+    <name>JP10D</name>
+    <desc>Saknar ved</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.559840" lon="17.448841">
+    <name>Gammalt pass</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.597080" lon="17.306482">
+    <name>Vadställe</name>
+    <desc />
+    <type>ford</type>
+  </wpt>
+  <wpt lat="65.573910" lon="17.586376">
+    <name>P</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.570244" lon="17.536886">
+    <name>S3</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.564800" lon="17.359629">
+    <name>Plats för torn alt 1</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.551094" lon="17.611532">
+    <name>S27B</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.570180" lon="17.325296">
+    <name>Parkering</name>
+    <desc />
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.571320" lon="17.589901">
+    <name>SS3 prel</name>
+    <desc>Ny 2023</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.568620" lon="17.602780">
+    <name>S10</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.558380" lon="17.560215">
+    <name>SS4 (flyttas)</name>
+    <desc>Sten uppsatt 230409 /MB
+Ska flyttas!</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.576400" lon="17.567392">
+    <name>P</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.591890" lon="17.313055">
+    <name>GS10</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.538025" lon="17.482218">
+    <name>JP28 prel</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.560070" lon="17.611435">
+    <name>Parkering</name>
+    <desc />
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.566376" lon="17.551620">
+    <name>SS11</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.582360" lon="17.313004">
+    <name>GS12</name>
+    <desc>Ny position 2023</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.557236" lon="17.471914">
+    <name>JP5</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.537070" lon="17.622190">
+    <name>S16</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.563870" lon="17.428392">
+    <name>JS8</name>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.559310" lon="17.446325">
+    <name>JS11</name>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.557330" lon="17.610190">
+    <name>S25</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.582270" lon="17.328773">
+    <name>G25A</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.569520" lon="17.405037">
+    <name>JP10B</name>
+    <desc>Skjutriktning: 360gr</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="64.968110" lon="18.121876">
+    <name>Övrigt</name>
+    <desc>Bittas stuga</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.543144" lon="17.472496">
+    <name>Övrigt</name>
+    <desc>Markering sista snitsen mot pass</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.581764" lon="17.333553">
+    <name>GS5</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.585720" lon="17.302706">
+    <name>G17</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.548890" lon="17.453585">
+    <name>Mot 19</name>
+    <desc>Traktorväg</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.576070" lon="17.373861">
+    <name>GS13</name>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.549480" lon="17.420458">
+    <name>JP22 </name>
+    <desc>Pass flyttat från hygget. </desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.532936" lon="17.629251">
+    <name>M18A</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.554184" lon="17.611923">
+    <name>S26</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.542220" lon="17.596110">
+    <name>S2</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.572105" lon="17.592422">
+    <name>S9</name>
+    <desc>norr om järnvägen </desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.520100" lon="17.644468">
+    <name>M17</name>
+    <desc>Pass 17</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.557260" lon="17.460218">
+    <name>JP26</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.502464" lon="17.646116">
+    <name>AvfartÖvrigt</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.529580" lon="17.582047">
+    <name>MS4</name>
+    <desc>Ny sten 230409/MB</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.578960" lon="17.447382">
+    <name>JS2</name>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.537030" lon="17.620731">
+    <name>Gamla 16</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.537420" lon="17.633461">
+    <name>Gamla 14</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.561010" lon="17.591547">
+    <name>Övrigt</name>
+    <desc>Kamera </desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.569130" lon="17.333176">
+    <name>G7</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.569405" lon="17.473326">
+    <name>JP27A</name>
+    <desc>
+</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.570510" lon="17.325829">
+    <name>Gamla 29</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.552840" lon="17.451290">
+    <name>JP19A</name>
+    <desc>Vedförråd utkört 2021</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.564660" lon="17.409060">
+    <name>JP14</name>
+    <desc>Flyttades 2023-09-05</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.543700" lon="17.492086">
+    <name>JS18</name>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.571625" lon="17.320997">
+    <name>GS8</name>
+    <desc />
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.574380" lon="17.340895">
+    <name>GS3</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.563530" lon="17.576807">
+    <name>S31</name>
+    <desc>SP31</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.542850" lon="17.474321">
+    <name>Övrigt</name>
+    <desc>Markering  vägtill pass</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.562230" lon="17.476727">
+    <name>JS13</name>
+    <desc>Saltsten Borttagen 2024</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.571880" lon="17.418676">
+    <name>JP11B</name>
+    <desc />
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.571000" lon="17.409834">
+    <name>10</name>
+    <desc>Gammalt pass</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.576050" lon="17.453241">
+    <name>Övrigt JS3</name>
+    <desc>Saltsten senast utsatt 2022-03-27
+Förslag att den slopas 2024</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.575165" lon="17.577965">
+    <name>P</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.544620" lon="17.460490">
+    <name>P</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.560960" lon="17.591501">
+    <name>SS9</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.523760" lon="17.640636">
+    <name>MS1</name>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.580120" lon="17.319143">
+    <name>G24</name>
+    <desc>Hette tidigare G17B</desc>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.560150" lon="17.590126">
+    <name>Övrigt</name>
+    <desc>Holmen gräns av verk  och Nat res gräns </desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.557250" lon="17.486282">
+    <name>JS14</name>
+    <desc>Borttagen 2024</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.540560" lon="17.571201">
+    <name>P-P20</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.577705" lon="17.284807">
+    <name>P G4</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.570700" lon="17.313534">
+    <name>P</name>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.568470" lon="17.425417">
+    <name>JS6</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.579445" lon="17.297422">
+    <name>GS9</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.544640" lon="17.453588">
+    <name>JP1</name>
+    <type>pass</type>
+  </wpt>
+  <wpt lat="65.539505" lon="17.622509">
+    <name>Övrigt</name>
+    <desc>Gammalt pass mkt ved</desc>
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.567924" lon="17.396566">
+    <name>P</name>
+    <desc>basväg upp till 10</desc>
+    <type>parking</type>
+  </wpt>
+  <wpt lat="65.578575" lon="17.356796">
+    <name>GS2</name>
+    <desc>Saltsten</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.561080" lon="17.454847">
+    <name>JS12</name>
+    <desc>Orörd vid kontroll (Johnny) vår 2023</desc>
+    <type>salt_lick</type>
+  </wpt>
+  <wpt lat="65.537030" lon="17.622610">
+    <name>Skjutningen</name>
+    <desc />
+    <type>other</type>
+  </wpt>
+  <wpt lat="65.581510" lon="17.370490">
+    <name>G9</name>
+    <type>pass</type>
+  </wpt>
+  <trk>
+    <name>Norrsele VVO</name>
+    <type>huntarea_border</type>
+    <trkseg>
+      <trkpt lat="65.550929" lon="17.630670" />
+      <trkpt lat="65.580870" lon="17.583374" />
+      <trkpt lat="65.563037" lon="17.504448" />
+      <trkpt lat="65.591232" lon="17.458976" />
+      <trkpt lat="65.571058" lon="17.409553" />
+      <trkpt lat="65.598806" lon="17.312522" />
+      <trkpt lat="65.570604" lon="17.281345" />
+      <trkpt lat="65.570461" lon="17.283544" />
+      <trkpt lat="65.569888" lon="17.285267" />
+      <trkpt lat="65.569779" lon="17.287545" />
+      <trkpt lat="65.570115" lon="17.290057" />
+      <trkpt lat="65.570877" lon="17.291453" />
+      <trkpt lat="65.571086" lon="17.292619" />
+      <trkpt lat="65.571631" lon="17.293725" />
+      <trkpt lat="65.571949" lon="17.296095" />
+      <trkpt lat="65.571913" lon="17.299496" />
+      <trkpt lat="65.571199" lon="17.305203" />
+      <trkpt lat="65.570196" lon="17.317989" />
+      <trkpt lat="65.570285" lon="17.324935" />
+      <trkpt lat="65.569212" lon="17.330383" />
+      <trkpt lat="65.568848" lon="17.332912" />
+      <trkpt lat="65.568840" lon="17.336772" />
+      <trkpt lat="65.568072" lon="17.339646" />
+      <trkpt lat="65.567312" lon="17.341137" />
+      <trkpt lat="65.566836" lon="17.342800" />
+      <trkpt lat="65.566563" lon="17.344790" />
+      <trkpt lat="65.566005" lon="17.350385" />
+      <trkpt lat="65.563612" lon="17.363120" />
+      <trkpt lat="65.564997" lon="17.364883" />
+      <trkpt lat="65.565530" lon="17.366647" />
+      <trkpt lat="65.566275" lon="17.369612" />
+      <trkpt lat="65.566932" lon="17.373155" />
+      <trkpt lat="65.568592" lon="17.376289" />
+      <trkpt lat="65.568943" lon="17.376722" />
+      <trkpt lat="65.569331" lon="17.377542" />
+      <trkpt lat="65.569564" lon="17.379762" />
+      <trkpt lat="65.569640" lon="17.381174" />
+      <trkpt lat="65.569738" lon="17.382146" />
+      <trkpt lat="65.569489" lon="17.384832" />
+      <trkpt lat="65.569019" lon="17.386447" />
+      <trkpt lat="65.569045" lon="17.389865" />
+      <trkpt lat="65.553420" lon="17.396444" />
+      <trkpt lat="65.549957" lon="17.397673" />
+      <trkpt lat="65.547585" lon="17.398795" />
+      <trkpt lat="65.545471" lon="17.419015" />
+      <trkpt lat="65.544716" lon="17.425136" />
+      <trkpt lat="65.543100" lon="17.436630" />
+      <trkpt lat="65.541882" lon="17.443339" />
+      <trkpt lat="65.535751" lon="17.469123" />
+      <trkpt lat="65.529357" lon="17.487798" />
+      <trkpt lat="65.529075" lon="17.492329" />
+      <trkpt lat="65.531280" lon="17.495968" />
+      <trkpt lat="65.533947" lon="17.497101" />
+      <trkpt lat="65.535067" lon="17.494062" />
+      <trkpt lat="65.541029" lon="17.494775" />
+      <trkpt lat="65.542668" lon="17.503423" />
+      <trkpt lat="65.543241" lon="17.506921" />
+      <trkpt lat="65.543817" lon="17.509455" />
+      <trkpt lat="65.547103" lon="17.515209" />
+      <trkpt lat="65.550798" lon="17.517656" />
+      <trkpt lat="65.554705" lon="17.515038" />
+      <trkpt lat="65.563050" lon="17.504396" />
+      <trkpt lat="65.564417" lon="17.510618" />
+      <trkpt lat="65.557723" lon="17.518301" />
+      <trkpt lat="65.556231" lon="17.519331" />
+      <trkpt lat="65.553780" lon="17.519333" />
+      <trkpt lat="65.552234" lon="17.522939" />
+      <trkpt lat="65.549863" lon="17.523197" />
+      <trkpt lat="65.544342" lon="17.521180" />
+      <trkpt lat="65.540196" lon="17.526438" />
+      <trkpt lat="65.540113" lon="17.540739" />
+      <trkpt lat="65.538039" lon="17.545256" />
+      <trkpt lat="65.528386" lon="17.545498" />
+      <trkpt lat="65.514620" lon="17.550762" />
+      <trkpt lat="65.520131" lon="17.587800" />
+      <trkpt lat="65.514278" lon="17.607864" />
+      <trkpt lat="65.520653" lon="17.648538" />
+      <trkpt lat="65.528449" lon="17.644580" />
+      <trkpt lat="65.550929" lon="17.630670" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Gårbenåjve</name>
+    <type>sub_area</type>
+    <trkseg>
+      <trkpt lat="65.598806" lon="17.312522" />
+      <trkpt lat="65.579778" lon="17.378934" />
+      <trkpt lat="65.579340" lon="17.380446" />
+      <trkpt lat="65.578197" lon="17.381916" />
+      <trkpt lat="65.576885" lon="17.383161" />
+      <trkpt lat="65.571702" lon="17.388782" />
+      <trkpt lat="65.571179" lon="17.388034" />
+      <trkpt lat="65.570231" lon="17.388058" />
+      <trkpt lat="65.570041" lon="17.388594" />
+      <trkpt lat="65.569034" lon="17.389645" />
+      <trkpt lat="65.569023" lon="17.386545" />
+      <trkpt lat="65.569537" lon="17.384491" />
+      <trkpt lat="65.569714" lon="17.382002" />
+      <trkpt lat="65.569480" lon="17.378558" />
+      <trkpt lat="65.569306" lon="17.377614" />
+      <trkpt lat="65.568325" lon="17.375784" />
+      <trkpt lat="65.566949" lon="17.373187" />
+      <trkpt lat="65.566880" lon="17.372872" />
+      <trkpt lat="65.566275" lon="17.369612" />
+      <trkpt lat="65.565530" lon="17.366647" />
+      <trkpt lat="65.565456" lon="17.366402" />
+      <trkpt lat="65.565206" lon="17.365265" />
+      <trkpt lat="65.565004" lon="17.364905" />
+      <trkpt lat="65.564997" lon="17.364883" />
+      <trkpt lat="65.564977" lon="17.364858" />
+      <trkpt lat="65.563608" lon="17.363077" />
+      <trkpt lat="65.564380" lon="17.359032" />
+      <trkpt lat="65.566005" lon="17.350385" />
+      <trkpt lat="65.566545" lon="17.344962" />
+      <trkpt lat="65.566836" lon="17.342800" />
+      <trkpt lat="65.567294" lon="17.341266" />
+      <trkpt lat="65.568072" lon="17.339646" />
+      <trkpt lat="65.568840" lon="17.336772" />
+      <trkpt lat="65.568777" lon="17.333041" />
+      <trkpt lat="65.570285" lon="17.324678" />
+      <trkpt lat="65.570196" lon="17.317989" />
+      <trkpt lat="65.571199" lon="17.305203" />
+      <trkpt lat="65.571913" lon="17.299496" />
+      <trkpt lat="65.571949" lon="17.296095" />
+      <trkpt lat="65.571621" lon="17.293786" />
+      <trkpt lat="65.571222" lon="17.292936" />
+      <trkpt lat="65.570876" lon="17.291536" />
+      <trkpt lat="65.570109" lon="17.290107" />
+      <trkpt lat="65.569981" lon="17.289450" />
+      <trkpt lat="65.569786" lon="17.287183" />
+      <trkpt lat="65.569906" lon="17.285297" />
+      <trkpt lat="65.570417" lon="17.283668" />
+      <trkpt lat="65.570550" lon="17.281527" />
+      <trkpt lat="65.576460" lon="17.288125" />
+      <trkpt lat="65.598806" lon="17.312522" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Svergo</name>
+    <type>sub_area</type>
+    <trkseg>
+      <trkpt lat="65.566327" lon="17.522467" />
+      <trkpt lat="65.567351" lon="17.523004" />
+      <trkpt lat="65.580870" lon="17.583202" />
+      <trkpt lat="65.563300" lon="17.611131" />
+      <trkpt lat="65.558301" lon="17.618915" />
+      <trkpt lat="65.553302" lon="17.626829" />
+      <trkpt lat="65.550973" lon="17.630503" />
+      <trkpt lat="65.541780" lon="17.636372" />
+      <trkpt lat="65.532645" lon="17.642091" />
+      <trkpt lat="65.528410" lon="17.644644" />
+      <trkpt lat="65.520645" lon="17.648550" />
+      <trkpt lat="65.514256" lon="17.607818" />
+      <trkpt lat="65.517172" lon="17.597601" />
+      <trkpt lat="65.520033" lon="17.587556" />
+      <trkpt lat="65.516950" lon="17.566774" />
+      <trkpt lat="65.515794" lon="17.558596" />
+      <trkpt lat="65.514532" lon="17.550762" />
+      <trkpt lat="65.528492" lon="17.545545" />
+      <trkpt lat="65.537142" lon="17.545273" />
+      <trkpt lat="65.537466" lon="17.545314" />
+      <trkpt lat="65.538039" lon="17.545256" />
+      <trkpt lat="65.544926" lon="17.537291" />
+      <trkpt lat="65.557596" lon="17.521548" />
+      <trkpt lat="65.559925" lon="17.521477" />
+      <trkpt lat="65.566327" lon="17.522467" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Junnis</name>
+    <type>sub_area</type>
+    <trkseg>
+      <trkpt lat="65.579427" lon="17.380601" />
+      <trkpt lat="65.579245" lon="17.380796" />
+      <trkpt lat="65.571076" lon="17.409726" />
+      <trkpt lat="65.571170" lon="17.410214" />
+      <trkpt lat="65.572188" lon="17.412590" />
+      <trkpt lat="65.573407" lon="17.415541" />
+      <trkpt lat="65.591182" lon="17.459040" />
+      <trkpt lat="65.578959" lon="17.478498" />
+      <trkpt lat="65.572827" lon="17.488485" />
+      <trkpt lat="65.569796" lon="17.493263" />
+      <trkpt lat="65.566676" lon="17.498300" />
+      <trkpt lat="65.562846" lon="17.504690" />
+      <trkpt lat="65.563032" lon="17.504353" />
+      <trkpt lat="65.554705" lon="17.515038" />
+      <trkpt lat="65.550695" lon="17.517546" />
+      <trkpt lat="65.547074" lon="17.515082" />
+      <trkpt lat="65.546632" lon="17.514383" />
+      <trkpt lat="65.543817" lon="17.509455" />
+      <trkpt lat="65.543241" lon="17.506921" />
+      <trkpt lat="65.542668" lon="17.503423" />
+      <trkpt lat="65.541029" lon="17.494775" />
+      <trkpt lat="65.540882" lon="17.494757" />
+      <trkpt lat="65.540465" lon="17.494698" />
+      <trkpt lat="65.538347" lon="17.494454" />
+      <trkpt lat="65.535067" lon="17.494062" />
+      <trkpt lat="65.534958" lon="17.494357" />
+      <trkpt lat="65.534849" lon="17.494654" />
+      <trkpt lat="65.533933" lon="17.497095" />
+      <trkpt lat="65.531280" lon="17.495968" />
+      <trkpt lat="65.530565" lon="17.494788" />
+      <trkpt lat="65.529161" lon="17.492294" />
+      <trkpt lat="65.529391" lon="17.487697" />
+      <trkpt lat="65.530868" lon="17.483386" />
+      <trkpt lat="65.535791" lon="17.469120" />
+      <trkpt lat="65.536258" lon="17.466988" />
+      <trkpt lat="65.541855" lon="17.443446" />
+      <trkpt lat="65.543144" lon="17.436522" />
+      <trkpt lat="65.543151" lon="17.436174" />
+      <trkpt lat="65.543189" lon="17.436047" />
+      <trkpt lat="65.543249" lon="17.435641" />
+      <trkpt lat="65.543468" lon="17.434659" />
+      <trkpt lat="65.543750" lon="17.432437" />
+      <trkpt lat="65.545413" lon="17.419647" />
+      <trkpt lat="65.547562" lon="17.398774" />
+      <trkpt lat="65.550244" lon="17.397513" />
+      <trkpt lat="65.550996" lon="17.397504" />
+      <trkpt lat="65.552989" lon="17.396679" />
+      <trkpt lat="65.565721" lon="17.391228" />
+      <trkpt lat="65.568881" lon="17.389934" />
+      <trkpt lat="65.569276" lon="17.389436" />
+      <trkpt lat="65.570084" lon="17.388507" />
+      <trkpt lat="65.570203" lon="17.388128" />
+      <trkpt lat="65.571175" lon="17.388094" />
+      <trkpt lat="65.571697" lon="17.388779" />
+      <trkpt lat="65.579245" lon="17.380796" />
+      <trkpt lat="65.579291" lon="17.380633" />
+      <trkpt lat="65.579389" lon="17.380533" />
+      <trkpt lat="65.579427" lon="17.380601" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Om både 6&amp;14 är besatta</name>
+    <type>forbidden_area</type>
+    <trkseg>
+      <trkpt lat="65.557784" lon="17.401126" />
+      <trkpt lat="65.556638" lon="17.405547" />
+      <trkpt lat="65.556425" lon="17.405203" />
+      <trkpt lat="65.557553" lon="17.400869" />
+      <trkpt lat="65.557784" lon="17.401126" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>F1</name>
+    <type>forbidden_area</type>
+    <trkseg>
+      <trkpt lat="65.532735" lon="17.613903" />
+      <trkpt lat="65.530353" lon="17.619310" />
+      <trkpt lat="65.527687" lon="17.615877" />
+      <trkpt lat="65.530140" lon="17.609697" />
+      <trkpt lat="65.532735" lon="17.613903" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>F2</name>
+    <type>forbidden_area</type>
+    <trkseg>
+      <trkpt lat="65.548443" lon="17.508160" />
+      <trkpt lat="65.548798" lon="17.510220" />
+      <trkpt lat="65.547093" lon="17.515026" />
+      <trkpt lat="65.543327" lon="17.507044" />
+      <trkpt lat="65.548443" lon="17.508160" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>F6</name>
+    <type>forbidden_area</type>
+    <trkseg>
+      <trkpt lat="65.567159" lon="17.522636" />
+      <trkpt lat="65.562188" lon="17.521734" />
+      <trkpt lat="65.557536" lon="17.521563" />
+      <trkpt lat="65.543486" lon="17.539201" />
+      <trkpt lat="65.540128" lon="17.540746" />
+      <trkpt lat="65.540199" lon="17.533708" />
+      <trkpt lat="65.540217" lon="17.529738" />
+      <trkpt lat="65.540146" lon="17.526541" />
+      <trkpt lat="65.542180" lon="17.523923" />
+      <trkpt lat="65.544321" lon="17.521348" />
+      <trkpt lat="65.545732" lon="17.521688" />
+      <trkpt lat="65.549863" lon="17.523197" />
+      <trkpt lat="65.552234" lon="17.522939" />
+      <trkpt lat="65.553284" lon="17.520490" />
+      <trkpt lat="65.553700" lon="17.519417" />
+      <trkpt lat="65.554792" lon="17.519333" />
+      <trkpt lat="65.556231" lon="17.519331" />
+      <trkpt lat="65.557723" lon="17.518301" />
+      <trkpt lat="65.564328" lon="17.510747" />
+      <trkpt lat="65.564322" lon="17.510723" />
+      <trkpt lat="65.564390" lon="17.510662" />
+      <trkpt lat="65.567159" lon="17.522636" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>F5</name>
+    <type>forbidden_area</type>
+    <trkseg>
+      <trkpt lat="65.538849" lon="17.554436" />
+      <trkpt lat="65.530887" lon="17.550488" />
+      <trkpt lat="65.528434" lon="17.545595" />
+      <trkpt lat="65.537659" lon="17.545338" />
+      <trkpt lat="65.538849" lon="17.554436" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>F6</name>
+    <type>forbidden_area</type>
+    <trkseg>
+      <trkpt lat="65.567160" lon="17.522696" />
+      <trkpt lat="65.568785" lon="17.529887" />
+      <trkpt lat="65.566325" lon="17.529566" />
+      <trkpt lat="65.563449" lon="17.525017" />
+      <trkpt lat="65.563644" lon="17.522206" />
+      <trkpt lat="65.567160" lon="17.522696" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>F3</name>
+    <type>forbidden_area</type>
+    <trkseg>
+      <trkpt lat="65.544748" lon="17.554508" />
+      <trkpt lat="65.541727" lon="17.549187" />
+      <trkpt lat="65.540768" lon="17.550560" />
+      <trkpt lat="65.540022" lon="17.556740" />
+      <trkpt lat="65.539311" lon="17.558113" />
+      <trkpt lat="65.537676" lon="17.545582" />
+      <trkpt lat="65.537666" lon="17.545294" />
+      <trkpt lat="65.538039" lon="17.545256" />
+      <trkpt lat="65.540020" lon="17.541037" />
+      <trkpt lat="65.542961" lon="17.539564" />
+      <trkpt lat="65.543593" lon="17.539058" />
+      <trkpt lat="65.544950" lon="17.537263" />
+      <trkpt lat="65.547654" lon="17.534051" />
+      <trkpt lat="65.550641" lon="17.530367" />
+      <trkpt lat="65.544748" lon="17.554508" />
+    </trkseg>
+  </trk>
+</gpx>
