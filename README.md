@@ -5,6 +5,7 @@ This is a script that converts GPX output from wehunt to Garmin
 ## Linux
 Install python on your machine.
 >pip install gpxpy
+
 Run .../bin/wehunt2garmin.py -file wehunt/wehunt_example.gpx 
 
 ## Windows
