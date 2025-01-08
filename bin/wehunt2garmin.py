@@ -89,7 +89,7 @@ for waypoint in gpx.waypoints:
         print ('  <wpt lat="'+str(waypoint.latitude)+'" lon="'+str(waypoint.longitude)+'">')
         print ('    <time>'+current_time.strftime("%G-%m-%dT%H:%M:%S")+'Z</time>')
         print ('    <name>'+str(waypoint.name)+'</name>')
-        print('    <sym>'+waypoint.sym+'</sym>')
+        #print('    <sym>'+waypoint.sym+'</sym>')
         print('    <type>'+waypoint.type+'</type>')
         try:
             waypoint.description=waypoint.description.replace("&","+")
