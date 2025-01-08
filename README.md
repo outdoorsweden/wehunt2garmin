@@ -25,7 +25,7 @@ I cmd fönstret:
 För att köra programmet
 1. Gå till platsen där du packade upp wehunt2garmin filen som du laddade ner.
 2. python bin/wehunt2garmin.py -file <sökvägen till gpx filen från wehunt>
-3. A 'garmin_<wehunt file name>.gpx' skapas. Importera till basemap och installera i din garminpejl eller
+3. A 'garmin_"wehunt filnamn".gpx' skapas. Importera till basemap och installera i din garminpejl eller
 kopiera diret till pejlen mha filhanteraren.
 
 
@@ -54,5 +54,5 @@ In cmd window:
 To run:
 1. Goto the location where you unpacked the scripts
 2. python bin/wehunt2garmin.py -file <path to gpx file from wehunt>
-3. A "garmin_<wehunt file name>.gpx" file will be created. Import to basemap and install in your garmin device or
+3. A 'garmin_"wehunt file name".gpx' file will be created. Import to basemap and install in your garmin device or
 copy directly into the garmin device using your file manager.
