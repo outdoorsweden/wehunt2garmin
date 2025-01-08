@@ -21,4 +21,5 @@ In cmd window:
 To run:
 1. Goto the location where you unpacked the scripts
 2. python bin/wehunt2garmin.py -file <path to gpx file from wehunt>
-3. A "garmin_<wehunt file name>.gpx" file will be created. Import to basemap and install in you garmin
+3. A "garmin_<wehunt file name>.gpx" file will be created. Import to basemap and install in your garmin device or
+copy directly into the garmin device using your file manager.
