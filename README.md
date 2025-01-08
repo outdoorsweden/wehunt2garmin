@@ -3,7 +3,9 @@ This is a script that converts GPX output from wehunt to Garmin
 
 
 ## Linux
-Install python on your machine.
+Install python on your machine using the prefereed method for your linux variant.
+For Red Hat: sudo yum install python
+Then install gpxpy
 >pip install gpxpy
 
 Run .../bin/wehunt2garmin.py -file wehunt/wehunt_example.gpx 
